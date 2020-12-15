@@ -1,0 +1,7 @@
+Hello {{user.author}},
+
+Welcome to BlogPit!
+
+We have just seen you have signed up for our application and want to welcome you to the platform.
+
+Thank you for Joining BlogPit!.
